@@ -11,7 +11,7 @@ class CreateDb
         public $con;
 
 
-        // class constructor
+        
     public function __construct(
         $dbname = "Newdb",
         $tablename = "Productdb",
